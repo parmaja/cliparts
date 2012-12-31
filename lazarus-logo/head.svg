@@ -9,14 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="744.09448"
+   height="1052.3622"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="drawing.svg"
+   sodipodi:docname="head.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.1">
+  <title
+     id="title3059">Cheetah Head</title>
   <defs
      id="defs4">
     <inkscape:perspective
@@ -45,8 +47,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.65132068"
-     inkscape:cx="650.17906"
-     inkscape:cy="1089.6613"
+     inkscape:cx="435.23118"
+     inkscape:cy="966.83394"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -58,7 +60,11 @@
      showguides="true">
     <inkscape:grid
        type="xygrid"
-       id="grid3876" />
+       id="grid3876"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -68,14 +74,37 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Cheetah Head</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nd/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Zaher Dirkey</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nd/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,2.472441e-5)">
     <path
        style="fill:#000000"
        d="m 522.18647,380.07667 c -1.54441,-0.21684 -3.70168,-0.70215 -4.79397,-1.07858 -1.09231,-0.37638 -2.65626,-0.52835 -3.47549,-0.33768 -1.80417,0.41993 -1.85183,-0.70998 -0.28401,-6.73268 1.80523,-6.93471 3.45736,-5.86751 13.49226,8.71557 -0.14937,2.42406 -3.30355,-0.22867 -4.93879,-0.56663 z"
@@ -465,5 +494,6 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Main"
-     style="display:inline" />
+     style="display:inline"
+     transform="translate(0,2.472441e-5)" />
 </svg>
