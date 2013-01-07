@@ -34,7 +34,7 @@
          id="stop5586" />
       <stop
          id="stop5588"
-         offset="0.4876779"
+         offset="0.38335639"
          style="stop-color:#920000;stop-opacity:0.16814159;" />
       <stop
          style="stop-color:#ffffff;stop-opacity:0;"
@@ -572,12 +572,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient5584"
        id="radialGradient5582"
-       cx="40.872669"
-       cy="1017.4983"
-       fx="40.872669"
-       fy="1017.4983"
+       cx="42.493114"
+       cy="1018.2738"
+       fx="42.493114"
+       fy="1018.2738"
        r="5.3874297"
-       gradientTransform="matrix(1.3173441,0.34633873,-0.25556987,0.97209303,227.36813,21.966719)"
+       gradientTransform="matrix(1.4629778,0.44342763,-0.29155516,0.96191289,258.03067,28.356713)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -599,9 +599,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="19.921513"
-     inkscape:cx="9.0446411"
-     inkscape:cy="24.982673"
+     inkscape:zoom="19.118163"
+     inkscape:cx="24.098461"
+     inkscape:cy="24.68045"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -669,7 +669,7 @@ http://nature.ca/notebooks/english/cheetah_p1.htm</dc:description>
        sodipodi:nodetypes="cccccccccsccccccccc" />
     <path
        style="fill:url(#radialGradient5582);fill-opacity:1;stroke:none;display:inline"
-       d="m 24.230183,1023.592 c 1.086382,1.7306 1.49775,1.8765 1.022871,3.7727 -0.81093,3.2384 -5.145633,2.2816 -5.159854,3.2841 -0.04223,2.9768 8.433643,1.019 9.304862,-2.034 0.659199,-2.31 -5.321258,-12.4169 -5.167879,-5.0228 z"
+       d="m 24.12557,1023.9581 c 1.086382,1.7306 1.445444,1.6673 0.970565,3.5635 -0.81093,3.2384 -4.988714,2.1247 -5.002935,3.1272 -0.04223,2.9768 8.506715,1.0389 9.304862,-2.034 0.589478,-2.2695 -2.235188,-6.7679 -5.272492,-4.6567 z"
        id="path3646-1-9-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssac" />
