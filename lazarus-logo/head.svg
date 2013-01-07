@@ -26,6 +26,137 @@
      id="title3059">Cheetah Head</title>
   <defs
      id="defs4">
+    <inkscape:path-effect
+       effect="vonkoch"
+       id="path-effect4429"
+       is_visible="true"
+       ref_path="m 17,1045.2164 15.125,0"
+       generator="m 17,1048.737 5.041667,0 m 5.041666,0 5.041667,0"
+       similar_only="false"
+       nbgenerations="4"
+       drawall="true"
+       maxComplexity="1000" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4427"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4425"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4423"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4421"
+       is_visible="true"
+       pattern="M 0,0 1,0"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="knot"
+       id="path-effect4419"
+       is_visible="true"
+       interruption_width="3"
+       prop_to_stroke_width="true"
+       add_stroke_width="true"
+       add_other_stroke_width="true"
+       switcher_size="15"
+       crossing_points_vector="" />
+    <inkscape:path-effect
+       effect="interpolate"
+       id="path-effect4415"
+       is_visible="true"
+       trajectory="M 0,0 0,0"
+       equidistant_spacing="true"
+       steps="5" />
+    <inkscape:path-effect
+       effect="gears"
+       id="path-effect4413"
+       is_visible="true"
+       teeth="10"
+       phi="5" />
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect4411"
+       is_visible="true"
+       yy="true"
+       xx="true"
+       bendpath1="m 5.625,33.4375 6.25,0"
+       bendpath2="m 11.875,33.4375 0,6.5"
+       bendpath3="m 5.625,39.9375 6.25,0"
+       bendpath4="m 5.625,33.4375 0,6.5" />
+    <inkscape:path-effect
+       effect="construct_grid"
+       id="path-effect4409"
+       is_visible="true"
+       nr_x="5"
+       nr_y="5" />
+    <inkscape:path-effect
+       effect="bend_path"
+       id="path-effect4407"
+       is_visible="true"
+       bendpath="m 5.625,36.6875 6.25,0"
+       prop_scale="1"
+       scale_y_rel="false"
+       vertical="false" />
+    <inkscape:path-effect
+       effect="rough_hatches"
+       id="path-effect4405"
+       is_visible="true"
+       direction="8.75,31.6875 , 1.5625,0"
+       dist_rdm="75;1"
+       growth="0"
+       do_bend="true"
+       bender="8.75,36.6875 , 5,0"
+       bottom_edge_variation="0.65;1"
+       top_edge_variation="0.65;1"
+       bottom_tgt_variation="0;1"
+       top_tgt_variation="0;1"
+       scale_bf="1"
+       scale_bb="1"
+       scale_tf="1"
+       scale_tb="1"
+       top_smth_variation="0;1"
+       bottom_smth_variation="0;1"
+       fat_output="true"
+       stroke_width_top="1"
+       stroke_width_bottom="1"
+       front_thickness="1"
+       back_thickness="0.25" />
+    <inkscape:path-effect
+       effect="rough_hatches"
+       id="path-effect4399"
+       is_visible="true"
+       direction="10.625,1035.7453 , 2.625,0"
+       dist_rdm="75;1"
+       growth="0"
+       do_bend="true"
+       bender="6.875,1042.9328 , 4.75,-2.25"
+       bottom_edge_variation="0.67665644;1"
+       top_edge_variation="0.67665644;1"
+       bottom_tgt_variation="0;1"
+       top_tgt_variation="0;1"
+       scale_bf="1"
+       scale_bb="1"
+       scale_tf="1"
+       scale_tb="1"
+       top_smth_variation="0;1"
+       bottom_smth_variation="0;1"
+       fat_output="true"
+       stroke_width_top="1"
+       stroke_width_bottom="1"
+       front_thickness="1"
+       back_thickness="0.25" />
     <linearGradient
        id="linearGradient4047">
       <stop
@@ -99,12 +230,12 @@
     <linearGradient
        id="linearGradient3985">
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.61061949;"
+         style="stop-color:#ffffff;stop-opacity:0.76106197;"
          offset="0"
          id="stop3987" />
       <stop
          id="stop3993"
-         offset="0.63635844"
+         offset="0.60575384"
          style="stop-color:#ffffff;stop-opacity:0.19215686;" />
       <stop
          style="stop-color:#ffffff;stop-opacity:0;"
@@ -285,10 +416,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient3985"
        id="linearGradient3991"
-       x1="20.743263"
-       y1="1038.0232"
-       x2="25.196302"
-       y2="1034.7664"
+       x1="20.805763"
+       y1="1039.2732"
+       x2="27.696302"
+       y2="1033.6414"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-0.375,-1.6252)" />
     <linearGradient
@@ -403,8 +534,8 @@
        id="linearGradient4057"
        x1="34.314472"
        y1="1014.7882"
-       x2="29.111683"
-       y2="1019.0402"
+       x2="27.444017"
+       y2="1020.5876"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.98494012,-0.17289578,0.17289578,0.98494012,-199.16933,25.925998)" />
   </defs>
@@ -418,9 +549,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="47.656135"
-     inkscape:cy="11.206934"
+     inkscape:zoom="16"
+     inkscape:cx="26.842774"
+     inkscape:cy="21.299191"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -488,7 +619,7 @@ http://nature.ca/notebooks/english/cheetah_p1.htm</dc:description>
        sodipodi:nodetypes="cccccccccsccccccccc" />
     <path
        style="fill:url(#linearGradient4057);fill-opacity:1;stroke:none;display:inline"
-       d="m 4.8802434,1024.498 c 0.708664,-1.7099 3.1395159,-3.7242 4.5640443,-5.6823 0.6808893,-0.083 1.7197013,-0.048 1.4968363,0.3013 -0.54641,0.8574 -2.8255565,4.2936 -3.8083319,5.7085 -0.6541031,0.016 -2.0229028,-0.056 -2.2525487,-0.3275 z"
+       d="m 3.8177434,1025.748 c 0.708664,-1.7099 4.2020159,-4.9742 5.6265443,-6.9323 0.6808893,-0.083 1.7197013,-0.048 1.4968363,0.3013 -0.54641,0.8574 -3.4505565,5.4186 -4.4333319,6.8335 -0.7802902,0.3315 -2.6636308,0.5771 -2.6900487,-0.2025 z"
        id="path3646-1-9-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccscc" />
