@@ -102,7 +102,7 @@
          style="stop-color:#930a0a;stop-opacity:0.54867256;" />
       <stop
          style="stop-color:#920000;stop-opacity:0.16814159;"
-         offset="0.38335639"
+         offset="0.69458532"
          id="stop5658" />
       <stop
          id="stop5660"
@@ -133,7 +133,7 @@
          style="stop-color:#ffffff;stop-opacity:0.62831861;" />
       <stop
          style="stop-color:#ffffff;stop-opacity:0.49557522;"
-         offset="0.45584768"
+         offset="0.65527183"
          id="stop5642" />
       <stop
          id="stop5644"
@@ -289,21 +289,21 @@
        inkscape:collect="always"
        xlink:href="#linearGradient5654"
        id="radialGradient5582"
-       cx="42.493114"
-       cy="1018.2738"
-       fx="42.493114"
-       fy="1018.2738"
+       cx="42.333439"
+       cy="1019.2136"
+       fx="42.333439"
+       fy="1019.2136"
        r="5.3874297"
-       gradientTransform="matrix(1.4403137,0.46461481,-0.28703845,1.0078735,254.27011,-19.761235)"
+       gradientTransform="matrix(1.0305425,0.60448288,-0.43244261,0.77807146,419.71194,208.49096)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5638"
        id="linearGradient5608"
-       x1="1.3744972"
-       y1="1031.3292"
-       x2="16.697128"
-       y2="1027.6648"
+       x1="1.9102697"
+       y1="1032.8395"
+       x2="16.084816"
+       y2="1027.8086"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.98450823,0,0,1.0477805,0.2367879,-49.472845)" />
     <radialGradient
@@ -315,7 +315,7 @@
        fx="11.559684"
        fy="1018.163"
        r="2.517016"
-       gradientTransform="matrix(1.0663448,0.021774,-0.01966757,1.0909682,19.30946,-93.703042)"
+       gradientTransform="matrix(0.97653224,0.59058691,-0.56227759,0.93511674,572.81312,58.40385)"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
@@ -339,9 +339,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.691948"
-     inkscape:cx="65.408394"
-     inkscape:cy="5.1677888"
+     inkscape:zoom="13.270833"
+     inkscape:cx="12.8854"
+     inkscape:cy="24"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -402,7 +402,7 @@ http://nature.ca/notebooks/english/cheetah_p1.htm</dc:description>
      style="display:inline"
      transform="translate(0,-1004.362)">
     <path
-       style="fill:#ffcc00;display:inline"
+       style="fill:#ffcc00;display:inline;fill-opacity:1"
        d="m 47.195109,1044.7096 c -1.423649,-1.931 -4.263913,-7.5673 -5.289421,-9.6611 -3.394545,-6.879 -7.132794,-13.2008 -11.110554,-19.5225 -0.979884,-1.2413 -0.686817,-2.2522 -3.243683,-4.0077 -2.25151,-1.5458 -5.557226,-1.4719 -8.838766,-1.5122 l -0.400894,-0.019 c -5.398115,0.2042 -8.280265,1.7013 -12.2391405,5.2386 -0.2810872,0.2355 -0.4204433,0.6657 -0.3935776,1.1737 0.026517,0.5018 3.74e-4,0.6957 0.149974,1.0308 -0.2835301,0.3743 -3.1199009,3.8379 -4.1749383,5.4159 -0.82152315,1.2285 -1.05794306,2.1407 -0.89564911,2.5801 0.18232334,0.7358 1.16717241,2.4633 1.81287951,3.1946 0.05493,0.061 0.3431581,0.4584 0.535177,0.5942 -0.1188662,0.1194 1.4475283,1.4866 1.922164,1.6567 0.5166709,0.1851 1.0409986,0.6157 2.0912477,0.5934 2.6357508,-0.1272 5.7407693,-3.081 8.0160023,-2.4197 4.992462,1.6843 4.532727,11.4648 4.606319,15.6643 l 27.561329,0.043 z"
        id="path3127-0"
        inkscape:connector-curvature="0"
@@ -433,12 +433,12 @@ http://nature.ca/notebooks/english/cheetah_p1.htm</dc:description>
        sodipodi:nodetypes="cscccc" />
     <path
        style="fill:url(#linearGradient4017);fill-opacity:1;stroke:none;display:inline"
-       d="m 30.162977,1017.7345 c 6.474376,2.8754 13.213599,22.7668 17.140601,27.0171 -4.852386,-9e-4 -10.099465,0 -14.552696,0.016 -1.157585,-0.016 -0.283097,-1.3961 0.09537,-2.08 1.973341,-3.566 -5.051652,-10.4359 -2.649269,-18.081 0.514081,-1.636 -2.966524,-1.9701 -2.809463,-2.7618 0.27147,-1.3689 1.669565,-2.2641 2.775438,-4.1105 z"
+       d="m 30.162977,1017.7345 c 6.474376,2.8754 13.213599,22.7668 17.140601,27.0171 -4.852386,-9e-4 -10.099465,0 -14.552696,0.016 -1.157585,-0.016 -0.283097,-1.3961 0.09537,-2.08 1.973341,-3.566 -1.510051,-11.1141 -4.005627,-17.9303 -0.58958,-1.6103 -2.062285,-1.6687 -1.905224,-2.4604 0.27147,-1.3689 2.121684,-2.7162 3.227557,-4.5626 z"
        id="path3646-1-9-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccssscc" />
     <path
-       style="opacity:0.8851675;fill:url(#radialGradient5628);fill-opacity:1;stroke:none;display:inline"
+       style="opacity:0.88516750000000000;fill:url(#radialGradient5628);fill-opacity:1;stroke:none;display:inline"
        d="m 10.447288,1017.9152 c 2.62326,1.2866 0.921948,-2.2222 3.745003,-3.22 0.860265,2.867 0.795581,5.0737 -1.310584,5.8593 -1.211856,0.452 -2.33754,-0.739 -3.5193234,-0.6562 -0.3560662,0.024 0.052933,-1.0194 1.0849044,-1.9841 z"
        id="path3646-1-8"
        inkscape:connector-curvature="0"
