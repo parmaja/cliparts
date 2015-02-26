@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="150"
+   viewBox="0 0 399.99999 150"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="old-programmers.svg"
+   inkscape:export-filename="W:\home\art\cliparts\groups\old-programmers.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4155">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop4157" />
+      <stop
+         id="stop4167"
+         offset="0.62543923"
+         style="stop-color:#c2c2c2;stop-opacity:1" />
+      <stop
+         style="stop-color:#dddddd;stop-opacity:0.75418997"
+         offset="1"
+         id="stop4159" />
+    </linearGradient>
+    <filter
+       inkscape:label="Pixellize"
+       inkscape:menu="Pixel tools"
+       inkscape:menu-tooltip="Reduce or remove antialiasing around shapes"
+       style="color-interpolation-filters:sRGB"
+       id="filter3351">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1000 -500 "
+         id="feColorMatrix3353" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4155"
+       id="radialGradient4165"
+       cx="243.74321"
+       cy="242.73668"
+       fx="243.74321"
+       fy="242.73668"
+       r="166.09753"
+       gradientTransform="matrix(1.3443107,-0.00860086,0.00656831,1.0266242,-85.463195,-4.9338448)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="199.26018"
+     inkscape:cy="194.28284"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="844"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-76.271676,-222.0193)">
+    <g
+       id="g5146"
+       transform="matrix(0.46439901,0,0,0.46439901,173.18117,185.11177)">
+      <rect
+         rx="10.525619"
+         y="102.75539"
+         x="76.708176"
+         height="268.82742"
+         width="331.32205"
+         id="rect4136"
+         style="opacity:1;fill:url(#radialGradient4165);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.87300003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57541899" />
+      <rect
+         rx="5.6415625"
+         y="133.57491"
+         x="110.05266"
+         height="214.71745"
+         width="264.63309"
+         id="rect4136-3"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.69741827;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57541899" />
+      <flowRoot
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.14738464px;line-height:125%;font-family:Steiner;-inkscape-font-specification:'Sans Oblique';letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3351)"
+         id="flowRoot4154"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4156"><rect
+             style="fill:#00ff00"
+             y="141.47769"
+             x="119.12494"
+             height="372.50928"
+             width="463.28885"
+             id="rect4158" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans'"
+           id="flowPara4160">&gt;OLD PROGRAMMERS</flowPara></flowRoot>      <flowRoot
+         transform="translate(-22.191639,-5)"
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:25.72124672px;line-height:125%;font-family:Steiner;-inkscape-font-specification:'Sans Oblique';letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3351)"
+         id="flowRoot4154-7"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4156-1"><rect
+             style="fill:#00ff00"
+             y="224.14311"
+             x="166.54884"
+             height="728.76874"
+             width="906.3678"
+             id="rect4158-1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans'"
+           id="flowPara4160-1">Good Bye World</flowPara></flowRoot>      <path
+         inkscape:connector-curvature="0"
+         id="path4169"
+         d="m 366.59528,359.4143 a 7.5,7.1428571 0 0 1 -7.15452,7.43554 7.5,7.1428571 0 0 1 -7.83008,-6.7901 7.5,7.1428571 0 0 1 7.10462,-7.47882 7.5,7.1428571 0 0 1 7.87536,6.74245"
+         style="opacity:1;fill:#cccccc;fill-opacity:0.75418994;fill-rule:nonzero;stroke:#000000;stroke-width:0.87300003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57541899" />
+    </g>
+  </g>
+</svg>
