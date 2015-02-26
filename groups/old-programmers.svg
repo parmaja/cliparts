@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="400"
-   height="150"
-   viewBox="0 0 399.99999 150"
+   width="800"
+   height="300"
+   viewBox="0 0 799.99998 300"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -22,6 +22,22 @@
    inkscape:export-ydpi="90">
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient4251"
+       inkscape:collect="always">
+      <stop
+         id="stop4253"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         style="stop-color:#c2c2c2;stop-opacity:1"
+         offset="0.81621248"
+         id="stop4255" />
+      <stop
+         id="stop4257"
+         offset="1"
+         style="stop-color:#c0c0c0;stop-opacity:1" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4155">
@@ -34,7 +50,7 @@
          offset="0.62543923"
          style="stop-color:#c2c2c2;stop-opacity:1" />
       <stop
-         style="stop-color:#dddddd;stop-opacity:0.75418997"
+         style="stop-color:#a0a0a0;stop-opacity:1"
          offset="1"
          id="stop4159" />
     </linearGradient>
@@ -50,7 +66,7 @@
     </filter>
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4155"
+       xlink:href="#linearGradient4251"
        id="radialGradient4165"
        cx="243.74321"
        cy="242.73668"
@@ -59,6 +75,71 @@
        r="166.09753"
        gradientTransform="matrix(1.3443107,-0.00860086,0.00656831,1.0266242,-85.463195,-4.9338448)"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:label="Pixellize"
+       inkscape:menu="Pixel tools"
+       inkscape:menu-tooltip="Reduce or remove antialiasing around shapes"
+       style="color-interpolation-filters:sRGB"
+       id="filter3351-6">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1000 -500 "
+         id="feColorMatrix3353-5" />
+    </filter>
+    <filter
+       inkscape:label="Pixellize"
+       inkscape:menu="Pixel tools"
+       inkscape:menu-tooltip="Reduce or remove antialiasing around shapes"
+       style="color-interpolation-filters:sRGB"
+       id="filter4167">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1000 -500 "
+         id="feColorMatrix4169" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4155"
+       id="radialGradient4165-4"
+       cx="243.74321"
+       cy="242.73668"
+       fx="243.74321"
+       fy="242.73668"
+       r="166.09753"
+       gradientTransform="matrix(1.2860256,-0.00814662,0.00628353,0.97240533,-70.880233,6.6524454)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="matrix(0.88276454,0,0,0.86562722,279.72717,15.104254)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4264"
+       id="linearGradient4270"
+       x1="233.97118"
+       y1="173.4399"
+       x2="233.97118"
+       y2="295.92725"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4264">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4266" />
+      <stop
+         id="stop4274"
+         offset="0.50686884"
+         style="stop-color:#004c00;stop-opacity:1" />
+      <stop
+         id="stop4272"
+         offset="0.54856318"
+         style="stop-color:#b2ff93;stop-opacity:1" />
+      <stop
+         style="stop-color:#004900;stop-opacity:1"
+         offset="0.59581798"
+         id="stop4276" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop4268" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -67,11 +148,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="199.26018"
-     inkscape:cy="194.28284"
+     inkscape:zoom="1.2834474"
+     inkscape:cx="442.89961"
+     inkscape:cy="217.81799"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g5146"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="844"
@@ -91,7 +172,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -99,10 +180,106 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-76.271676,-222.0193)">
-    <g
+     transform="translate(-76.271676,-72.0193)">
+    <path
+       style="opacity:1;fill:url(#linearGradient4270);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.87300003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57541899"
+       d="m 75.583113,73.68408 801.024097,0 0,300.24496 -801.024097,0 z"
+       id="rect4261"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4278-5-0-5"
+       style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6px;line-height:125%;font-family:Steiner;-inkscape-font-specification:'Sans Oblique';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.49068322;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.6936566,0,0,1.6936566,160.63445,466.18121)"><flowRegion
+         id="flowRegion4280-6-5-3"><rect
+           id="rect4282-2-0-8"
+           width="413.20749"
+           height="69.418861"
+           x="38.566032"
+           y="-86.762215"
+           style="fill:#ffffff;fill-opacity:0.49068322" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#ffffff;fill-opacity:0.49068322"
+         id="flowPara4322-5-0-9">System.out.println(&quot;Good Bye, World!&quot;);</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4278-5-5"
+       style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6px;line-height:125%;font-family:Steiner;-inkscape-font-specification:'Sans Oblique';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.49068322;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.81972169,0,0,0.81972169,512.89913,251.7638)"><flowRegion
+         id="flowRegion4280-6-6"><rect
+           id="rect4282-2-6"
+           width="413.20749"
+           height="69.418861"
+           x="38.566032"
+           y="-86.762215"
+           style="fill:#ffffff;fill-opacity:0.49068322" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#ffffff;fill-opacity:0.49068322"
+         id="flowPara4322-5-6">std::cout &lt;&lt; &quot;Good Bye, World!\n&quot;;</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4278"
+       style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6px;line-height:125%;font-family:Steiner;-inkscape-font-specification:'Sans Oblique';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.49068322;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.80723259,0,0,0.80723259,123.87163,294.20052)"><flowRegion
+         id="flowRegion4280"><rect
+           id="rect4282"
+           width="413.20749"
+           height="69.418861"
+           x="38.566032"
+           y="-86.762215"
+           style="fill:#ffffff;fill-opacity:0.49068322" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#ffffff;fill-opacity:0.49068322"
+         id="flowPara4322">10 PRINT &quot;Good Bye, World!&quot;</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4278-5-0"
+       style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6px;line-height:125%;font-family:Steiner;-inkscape-font-specification:'Sans Oblique';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.49068322;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(69.732901,338.69803)"><flowRegion
+         id="flowRegion4280-6-5"><rect
+           id="rect4282-2-0"
+           width="413.20749"
+           height="69.418861"
+           x="38.566032"
+           y="-86.762215"
+           style="fill:#ffffff;fill-opacity:0.49068322" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#ffffff;fill-opacity:0.49068322"
+         id="flowPara4322-5-0">writeln('Good Bye, World!');</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4278-5"
+       style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6px;line-height:125%;font-family:Steiner;-inkscape-font-specification:'Sans Oblique';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.49068322;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.2722606,0,0,1.2722606,62.289764,258.37992)"><flowRegion
+         id="flowRegion4280-6"><rect
+           id="rect4282-2"
+           width="413.20749"
+           height="69.418861"
+           x="38.566032"
+           y="-86.762215"
+           style="fill:#ffffff;fill-opacity:0.49068322" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#ffffff;fill-opacity:0.49068322"
+         id="flowPara4322-5">printf(&quot;Good Bye, World!&quot;);</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4278-5-1"
+       style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.63356352px;line-height:125%;font-family:Steiner;-inkscape-font-specification:'Sans Oblique';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.49068322;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(87.501388,92.61231)"><flowRegion
+         id="flowRegion4280-6-8"><rect
+           id="rect4282-2-1"
+           width="525.70758"
+           height="88.318886"
+           x="0.21073952"
+           y="-6.8760481"
+           style="fill:#ffffff;fill-opacity:0.49068322" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.44521141px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#ffffff;fill-opacity:0.49068322"
+         id="flowPara4322-5-00">puts &quot;Good Bye, World!&quot;</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4278-5-1-2"
+       style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.63356352px;line-height:125%;font-family:Steiner;-inkscape-font-specification:'Sans Oblique';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.49068322;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.98344974,0,0,0.98344974,538.14791,138.2775)"><flowRegion
+         id="flowRegion4280-6-8-5"><rect
+           id="rect4282-2-1-4"
+           width="525.70758"
+           height="88.318886"
+           x="0.21073952"
+           y="-6.8760481"
+           style="fill:#ffffff;fill-opacity:0.49068322" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.44521141px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#ffffff;fill-opacity:0.49068322"
+         id="flowPara4322-5-00-9">io::println(&quot;Good Bye World&quot;);</flowPara></flowRoot>    <g
        id="g5146"
-       transform="matrix(0.46439901,0,0,0.46439901,173.18117,185.11177)">
+       transform="matrix(0.87954614,0,0,0.87954614,281.76448,10.411083)">
       <rect
          rx="10.525619"
          y="102.75539"
@@ -111,6 +288,14 @@
          width="331.32205"
          id="rect4136"
          style="opacity:1;fill:url(#radialGradient4165);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.87300003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57541899" />
+      <rect
+         rx="6.3108897"
+         y="108.6543"
+         x="84.259888"
+         height="254.62991"
+         width="316.95694"
+         id="rect4136-31"
+         style="opacity:1;fill:url(#radialGradient4165-4);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83101171;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57541899" />
       <rect
          rx="5.6415625"
          y="133.57491"
@@ -132,7 +317,7 @@
              id="rect4158" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans'"
            id="flowPara4160">&gt;OLD PROGRAMMERS</flowPara></flowRoot>      <flowRoot
-         transform="translate(-22.191639,-5)"
+         transform="matrix(1.0839696,0,0,1.0839696,-43.75788,-24.163996)"
          style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:25.72124672px;line-height:125%;font-family:Steiner;-inkscape-font-specification:'Sans Oblique';letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3351)"
          id="flowRoot4154-7"
          xml:space="preserve"><flowRegion
@@ -148,7 +333,17 @@
          inkscape:connector-curvature="0"
          id="path4169"
          d="m 366.59528,359.4143 a 7.5,7.1428571 0 0 1 -7.15452,7.43554 7.5,7.1428571 0 0 1 -7.83008,-6.7901 7.5,7.1428571 0 0 1 7.10462,-7.47882 7.5,7.1428571 0 0 1 7.87536,6.74245"
-         style="opacity:1;fill:#cccccc;fill-opacity:0.75418994;fill-rule:nonzero;stroke:#000000;stroke-width:0.87300003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57541899" />
+         style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.87300003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.57541899" />
     </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4430"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Steiner;font-style:oblique;font-weight:300;font-size:6px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Sans Oblique;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion4432"><rect
+           id="rect4434"
+           width="13.773583"
+           height="13.22264"
+           x="299.16223"
+           y="216.25661" /></flowRegion><flowPara
+         id="flowPara4436"></flowPara></flowRoot>  </g>
 </svg>
