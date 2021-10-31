@@ -8,7 +8,8 @@ Firebird Logo
 
 Lazarus-Logo
 ============
-Based onbut not copy of it, i take a guid lines from it.
+Based on (but not copy of it), I tooke it as a guid lines from it.
+
 http://nature.ca/notebooks/english/cheetah_p1.htm
 
 Licenese
